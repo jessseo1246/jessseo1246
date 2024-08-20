@@ -8,7 +8,7 @@ In addition to my technical skills, I’m a helper, problem solver, and analyzer
 
 ## 📊 Technical Skills:
 
-**Programming Languages**: [SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white), [Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue), [R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)\
+**Programming Languages**: ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white), [Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue), [R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)\
 **Data Analysis Libraries:** 	[Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white), [NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white), [SciPy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)\
 **Statistical Analysis:** `Hypothesis Testing`, `A/B Testing`\
 **Machine Learning Frameworks:** [TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white), [scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)\
