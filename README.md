@@ -1,7 +1,5 @@
-
-
 # Hi Everyone! 
---
+
 ## 😀About Me
 
 I’m a Data Scientist on the lookout for opportunities to deepen my expertise in data science and visualization while contributing to fun and innovative projects.
@@ -19,13 +17,12 @@ Statistical Analysis: Hypothesis Testing, A/B Testing\
 Machine Learning Frameworks: TensorFlow, Scikit-learn\
 Visualization Tools: Tableau, Matplotlib, Plotly, Seaborn\
 Big Data Technologies: AWS, Hadoop, Spark, Hive\
-Tools: Git, Jupyter Notebook, Anaconda, Visual Studio Code, Markdown\
+Tools: Git, Jupyter Notebook, Anaconda, Visual Studio Code, Markdown
 
-I’m currently working on ...
 
---
+## 🌮Hobbies: 
+When I’m outside the data world, you’ll find me exploring new recipes, working out, painting, or diving into a good book! Cooking is a particular joy for me, as I love discovering new dishes to share with friends and family.
 
-😋When I’m outside the data world, you’ll find me exploring new recipes, working out, painting, or diving into a good book! Cooking is a particular joy for me, as I love discovering new dishes to share with friends and family.
-
-👋🏼 I’m always open to networking and participating in opportunities to expand my portfolio and experience in Data Science and Data Analytics. Feel free to reach out on LinkedIn!
+## 📩Connect with Me!🌐
+I’m always open to networking and participating in opportunities to expand my portfolio and experience in Data Science and Data Analytics. Feel free to reach out on LinkedIn!
 
