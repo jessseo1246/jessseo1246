@@ -24,7 +24,7 @@ In addition to my technical skills, I’m a helper, problem solver, and analyzer
 
 ## 🧩 Projects
 
-[Forecasting TTC Streetcar Delay](https://github.com/jessseo1246/Forecasting_TTC_Streetcar_Delays) | _Nov 2023_
+**[Forecasting TTC Streetcar Delay](https://github.com/jessseo1246/Forecasting_TTC_Streetcar_Delays)** | _Nov 2023_
 
 Many people rely on public transportation as their primary means of travel. When public transit experiences unexpected delays or cancellations, it disrupts passengers' schedules and raises safety concerns. This project analyzes Toronto's streetcar delays and their causes to identify delay patterns. The goal is to help commuters predict the severity of delays based on time, streetcar route, and weather.
 
