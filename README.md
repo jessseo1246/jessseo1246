@@ -6,7 +6,7 @@ I’m a Data Scientist with a passion for transforming raw data it into engaging
 In addition to my technical skills, I’m a helper, problem solver, and analyzer who loves brainstorming and tackling challenges. Whether it’s coming up with creative solutions or supporting my team with thoughtful advice, I’m known for being a reliable and collaborative colleague.
 
 
-## 📊 Technical Skills:
+## 📊 Technical Skills
 
 **Programming Languages**: ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)\
 <br />
@@ -22,8 +22,13 @@ In addition to my technical skills, I’m a helper, problem solver, and analyzer
 <br />
 **Tools:** ![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+## 🧩 Projects
 
-## 🌮 Hobbies: 
+[Forecasting TTC Streetcar Delay](https://github.com/jessseo1246/Forecasting_TTC_Streetcar_Delays) | _Nov 2023_
+
+Many people rely on public transportation as their primary means of travel. When public transit experiences unexpected delays or cancellations, it disrupts passengers' schedules and raises safety concerns. This project analyzes Toronto's streetcar delays and their causes to identify delay patterns. The goal is to help commuters predict the severity of delays based on time, streetcar route, and weather.
+
+## 🌮 Hobbies
 When I’m outside the data world, you’ll find me scrolling through new recipes discovering new dishes to cook and share with friends and family!
 
 ## 🌐 Connect with Me!
