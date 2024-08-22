@@ -1,7 +1,7 @@
 
 ## 😀 About Me
 
-I’m a Data Scientist with a passion for transforming raw data it into engaging visualizations. I’ve always enjoyed analyzing charts in the news and media, so it’s incredible to say, “This is what I do for a living!” I love creating clear, informative visuals to uncover insights and determine what comes next. Currently, I’m deepening my expertise in data science with a focus on predictive analytics, applying my skills and knowledge to drive innovative projects. 
+I’m a Data Scientist with a passion for transforming raw data into engaging visualizations. I’ve always enjoyed analyzing charts in the news and media, so it’s incredible to say, “This is what I do for a living!” I love creating clear, informative visuals to uncover insights and determine what comes next. Currently, I’m deepening my expertise in data science with a focus on predictive analytics in innovative projects. 
 
 In addition to my technical skills, I’m a helper, problem solver, and analyzer who loves brainstorming and tackling challenges. Whether it’s coming up with creative solutions or supporting my team with thoughtful advice, I’m known for being a reliable and collaborative colleague.
 
