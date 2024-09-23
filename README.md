@@ -8,19 +8,22 @@ In addition to my technical skills, I’m a helper, problem solver, and analyzer
 
 ## 📊 Technical Skills
 
-**Programming Languages**: ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)\
+**Programming Languages**: MySQL, Python, R\
 <br />
-**Data Analysis Libraries:** 	![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)\
+**Data Modelling:** ETL, Data Pipeline\
 <br />
-**Statistical Analysis:** `Hypothesis Testing`, `A/B Testing`\
+**Statistical Analysis:** Data Wrangling, Hypothesis Testing, A/B Testing\
 <br />
-**Machine Learning Frameworks:** ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)\
+**Data Analysis Libraries:** 	NumPy, Pandas, SciPy, Statsmodels\
 <br />
-**Visualization Tools:** ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) `Seaborn`\
+**Machine Learning Frameworks:** TensorFlow, scikit-learn, Predictive Analytics\
 <br />
-**Big Data Technologies:** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)\
+**Visualization Tools:** Tableau, Matplotlib, Plotly, Seaborn, Bokeh\
 <br />
-**Tools:** ![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+**Big Data Technologies:** AWS, Spark, Hadoop, Hive\
+<br />
+**Tools:** Jupyter Notebook, Anaconda, GitHub, Slack, Visual Studio Code\
+<br />
 
 ## 🧩 Projects
 
